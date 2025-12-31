@@ -2,8 +2,8 @@
 <h3 align="center">AI student building applied computer vision and LLM systems</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p></p>LinkedIn: https://www.linkedin.com/in/ongsa-raksalam</p>
-<p>Email: ongsaraks@gmail.com</p>
+<p></p>LinkedIn: https://www.linkedin.com/in/ongsa-raksalam< /p>
+<p>Email: ongsaraks@gmail.com </p>
 
 <p align="left">
 </p>
