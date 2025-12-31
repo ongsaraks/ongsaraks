@@ -31,5 +31,5 @@
 
 ## 📫 Contact
 
-LinkedIn: linkedin.com/in/your-profile  
-Email: your.email@example.com
+LinkedIn: [https://www.linkedin.com/in/ongsa-raksalam/](https://www.linkedin.com/in/ongsa-raksalam/)
+Email: ongsaraks@gmail.com
