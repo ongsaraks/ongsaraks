@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello, I’m Ongsa Raksalam
 
-<!--
-**ongsaraks/ongsaraks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Track Student | Mahidol University — building **real AI systems** in computer vision and LLM integration.
 
-Here are some ideas to get you started:
+🧠 Interests: Computer Vision • Large Language Models • Edge AI • Deployment with APIs and IoT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+**Languages:** Python • Java • C • Arduino • SQL  
+**AI & ML:** PyTorch • TensorFlow • YOLO • Scikit-learn • DeepFace  
+**Tools:** Linux • Docker • Git • Flask • Streamlit • Raspberry Pi • MQTT • Firebase
+
+---
+
+## 📂 Featured Projects
+
+✨ User Authentication with Facial Recognition  
+👁️ Automatic Height Measurement (CV + C++)  
+🧠 LLM Feedback Gathering System (Healthcare)  
+📊 AI Hackathon Notebooks
+
+---
+
+## 📈 GitHub Stats
+
+*(optional card here)*
+
+---
+
+## 📫 Contact
+
+LinkedIn: linkedin.com/in/your-profile  
+Email: your.email@example.com
