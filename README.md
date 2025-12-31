@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p></p>LinkedIn: https://www.linkedin.com/in/ongsa-raksalam</p>
-<p><a href="mailto:ongsaraks@gmail.com">Email: ongsaraks@gmail.com</a></p>
+<p>Email: <a href="mailto:ongsaraks@gmail.com">ongsaraks@gmail.com</a></p>
 
 <p align="left">
 </p>
